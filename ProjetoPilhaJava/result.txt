@@ -1,0 +1,52 @@
+How the execution stack works and this inheritance between classes.
+ 
+Start of Main Command 1
+**Starting method1
+I am a public variable
+**First variable of method1
+**Second variable of method1
+First variable of method1 / Second variable of method1 / End of method1.
+**Start method2
+I am a public variable
+**End of method 2
+**Starting method3
+***1
+***2
+***3
+***4
+***5
+***6
+***7
+***8
+***9
+**Start of method4
+**End of method4
+**Start of method5
+**Starting method1
+I am a public variable
+**First variable of method1
+**Second variable of method1
+First variable of method1 / Second variable of method1 / End of method1.
+**Start method2
+I am a public variable
+**End of method 2
+**Starting method3
+***1
+***2
+***3
+***4
+***5
+***6
+***7
+***8
+***9
+**Start of method4
+**End of method4
+I am a public variable / End of method5
+I am a public variable End of main command 1
+Mais sobre o texto originalÉ necessário fornecer o texto original para ver mais informações sobre a tradução
+Enviar feedback
+Painéis laterais
+Histórico
+Salvas
+Contribuir

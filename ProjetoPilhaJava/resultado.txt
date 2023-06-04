@@ -1,0 +1,46 @@
+Como trabalha a pilha de execução e essa herança entre classes.
+ 
+Início do Comando principal 1
+**Iniciando o metodo1
+Sou uma variável publica
+**Primeira Variável do metodo1
+**Segunda variável do metodo1
+Primeira Variável do metodo1 / Segunda variável do metodo1  /  Fim do metodo1.
+**Inicio o metodo2
+Sou uma variável publica
+**Fim do metodo 2
+**Iniciando o metodo3
+***1
+***2
+***3
+***4
+***5
+***6
+***7
+***8
+***9
+**Inicio do metodo4
+**Fim do metodo4
+**Inicio do metodo5
+**Iniciando o metodo1
+Sou uma variável publica
+**Primeira Variável do metodo1
+**Segunda variável do metodo1
+Primeira Variável do metodo1 / Segunda variável do metodo1  /  Fim do metodo1.
+**Inicio o metodo2
+Sou uma variável publica
+**Fim do metodo 2
+**Iniciando o metodo3
+***1
+***2
+***3
+***4
+***5
+***6
+***7
+***8
+***9
+**Inicio do metodo4
+**Fim do metodo4
+Sou uma variável publica  /  Fim d metodo5
+Sou uma variável publicaFim do comando principal 1
